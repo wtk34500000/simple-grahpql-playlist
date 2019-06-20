@@ -1,12 +1,12 @@
 # Setup
 <p>Inside Client Folder</p>
 <ol>
-  <li>npm install</li>
-  <li>npm start</li>
+  <li><code>npm install</code></li>
+  <li><code>npm start</code></li>
 </ol>
 
 <p>Inside Server Folder</p>
 <ol>
-  <li>npm install</li>
-  <li>nodemon app</li>
+  <li><code>npm install</code></li>
+  <li><code>nodemon app</code></li>
 </ol>
